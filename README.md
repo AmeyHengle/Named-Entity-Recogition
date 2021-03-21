@@ -1,5 +1,5 @@
 
-# Task 1: Extracting Financial data from Text
+# Task : Extracting Financial data from Text
 
 
 ## Problem Statement:
